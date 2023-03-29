@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, Me llamo Erik David</h1>
-<h3 align="center">Soyn un desarrollador frontend con algunos conocimientos de backend, apasionado del codigo</h3>
+<h3 align="center">Soy un desarrollador frontend con algunos conocimientos de backend, apasionado del codigo</h3>
 
 - 🌱 I’m currently learning **ReactJs y Angular a profundidad**
 
